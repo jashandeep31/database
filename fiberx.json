@@ -9,7 +9,7 @@
 "stock": true,
 "items": [
 {
-"name": "1 Month 4k",
+"name": "1 Month shared profile",
 "price": 88,
 "description": "This plan comes at ₹88 per month and offers a shared Netflix account with one sharing profile, exclusively for one device. Enjoy unlimited access to a vast library of movies.",
 "period": "months",
@@ -58,7 +58,7 @@
 {
 "name": "Prime video for 6 months",
 "price": 119,
-"description": "This plan offers access to Amazon Prime for 6 months at a price of ₹119. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies",
+"description": "This plan offers access to Amazon Prime for 6 months at a price of ₹119. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies.1 device login.",
 "period": "months",
 "count": 6,
 "_id": "63f4f2009e72f18feb8989d3"
@@ -66,7 +66,7 @@
 {
 "name": "Prime Video 12 months",
 "price": 189,
-"description": "This plan offers access to Amazon Prime for 12 months at aprice of ₹189. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies.",
+"description": "This plan offers access to Amazon Prime for 12 months at aprice of ₹189. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies. 1 device login.",
 "period": "months",
 "count": 12,
 "_id": "63f4f2009e72f18feb8989d4"
@@ -85,20 +85,20 @@
 "stock": true,
 "items": [
 {
-"_id": "63f4f4489e72f18feb898a41",
+"name": "Zee5 for 6 months",
 "price": 119,
-"count": 6,
+"description": "For the 6 month plan at ₹119, you'll get unlimited access to ZEE5, which includes a vast selection of TV shows, movies. 1 device login.",
 "period": "months",
-"description": "For the 6 month plan at ₹119, you'll get unlimited access to ZEE5, which includes a vast selection of TV shows, movies.",
-"name": "Zee5 for 6 months"
+"count": 6,
+"_id": "63f4f4489e72f18feb898a41"
 },
 {
-"_id": "63f4f4489e72f18feb898a42",
 "name": "Zee5 for 12 months",
 "price": 189,
-"description": "For the 12 month plan at ₹189, you'll get the same great benefits of ZEE5 as the 6 month plan, but for a longer period.",
+"description": "For the 12 month plan at ₹189, you'll get the same great benefits of ZEE5 as the 6 month plan, but for a longer period. 1 device login.",
 "period": "months",
-"count": 12
+"count": 12,
+"_id": "63f4f4489e72f18feb898a42"
 }
 ],
 "created_at": "2023-02-21T16:41:44.134Z",
