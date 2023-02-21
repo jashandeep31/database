@@ -56,20 +56,20 @@
 "stock": true,
 "items": [
 {
-"_id": "63f4f2009e72f18feb8989d3",
 "name": "Prime video for 6 months",
 "price": 119,
-"count": 6,
+"description": "This plan offers access to Amazon Prime for 6 months at a price of ₹119. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies",
 "period": "months",
-"description": "This plan offers access to Amazon Prime for 6 months at a price of ₹119. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies"
+"count": 6,
+"_id": "63f4f2009e72f18feb8989d3"
 },
 {
-"_id": "63f4f2009e72f18feb8989d4",
-"price": 189,
-"description": "This plan offers access to Amazon Prime for 12 months at aprice of ₹179. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies.",
 "name": "Prime Video 12 months",
+"price": 189,
+"description": "This plan offers access to Amazon Prime for 12 months at aprice of ₹189. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies.",
 "period": "months",
-"count": 12
+"count": 12,
+"_id": "63f4f2009e72f18feb8989d4"
 }
 ],
 "created_at": "2023-02-21T16:32:00.870Z",
