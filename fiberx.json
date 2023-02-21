@@ -11,7 +11,7 @@
 {
 "name": "1 Month 4k",
 "price": 88,
-"description": "This plan comes at ₹88 per month and offers a shared Netflix account with one profile, exclusively for one device. Enjoy unlimited access to a vast library of movies.",
+"description": "This plan comes at ₹88 per month and offers a shared Netflix account with one sharing profile, exclusively for one device. Enjoy unlimited access to a vast library of movies.",
 "period": "months",
 "count": 1,
 "_id": "63f4bcc96f636266b083809b"
@@ -19,7 +19,7 @@
 {
 "name": "1 Month Private Profile",
 "price": 109,
-"description": "This plan comes at ₹109 per month and offers a private Netflix account with one profile, exclusively for your use. Enjoy unlimited access to a vast library of movies.",
+"description": "This plan comes at ₹109 per month and offers a sharing Netflix account with one private profile, exclusively for your use. Enjoy unlimited access to a vast library of movies.",
 "period": "months",
 "count": 1,
 "_id": "63f4ed1f9e72f18feb898956"
@@ -27,7 +27,7 @@
 {
 "name": "3 Months shared Profile",
 "price": 250,
-"description": "This plan comes at ₹250 for 3 months and offers a shared Netflix account with one profile, exclusively for one device. Enjoy unlimited access to a vast library of movies",
+"description": "This plan comes at ₹250 for 3 months and offers a shared Netflix account with one private profile, exclusively for one device. Enjoy unlimited access to a vast library of movies",
 "period": "months",
 "count": 3,
 "_id": "63f4ed1f9e72f18feb898957"
@@ -35,7 +35,7 @@
 {
 "name": "3 Months private Profile",
 "price": 300,
-"description": "This plan comes at ₹300 for 3 months and offers a private Netflix account with one profile, exclusively for your use. Enjoy unlimited access to a vast library of movies.",
+"description": "This plan comes at ₹300 for 3 months and offers a private Netflix account with one private profile, exclusively for your use. Enjoy unlimited access to a vast library of movies.",
 "period": "months",
 "count": 3,
 "_id": "63f4ed1f9e72f18feb898958"
@@ -43,6 +43,66 @@
 ],
 "created_at": "2023-02-21T12:44:57.448Z",
 "slug": "netflix-premium-account",
+"__v": 0
+},
+{
+"_id": "63f4f2009e72f18feb8989d2",
+"name": "Amazon Prime ",
+"slug": "amazon-prime",
+"description": "Prime Video is a streaming video service by Amazon. Prime Video benefits are included with an Amazon Prime membership. With your membership, you can watch hundreds of TV shows and movies on your favorite devices. ",
+"category": "ott",
+"img": "http://store-images.s-microsoft.com/image/apps.32357.14618985536919905.4b30e4f3-f7a1-4421-840c-2cc97b10e8e0.6e7a96f1-33ad-4447-8e2b-7de730f9a05e",
+"banner": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+"stock": true,
+"items": [
+{
+"_id": "63f4f2009e72f18feb8989d3",
+"name": "Prime video for 6 months",
+"price": 119,
+"count": 6,
+"period": "months",
+"description": "This plan offers access to Amazon Prime for 6 months at a price of ₹119. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies"
+},
+{
+"_id": "63f4f2009e72f18feb8989d4",
+"price": 189,
+"description": "This plan offers access to Amazon Prime for 12 months at aprice of ₹179. With this subscription, you'll get unlimited access to Prime Video, which includes a vast selection of movies.",
+"name": "Prime Video 12 months",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-02-21T16:32:00.870Z",
+"__v": 0
+},
+{
+"_id": "63f4f4489e72f18feb898a40",
+"name": "Zee5 Premium",
+"description": "Zee5 offers an exhaustive array of content; with 90+ live TV channels and 1.25 lac+ hours of viewing across the languages of English, Hindi, Bengali, Malayalam, Tamil, Telugu, Kannada, Marathi, Oriya, Bhojpuri, Gujarati & Punjabi",
+"category": "ott",
+"img": "https://yt3.googleusercontent.com/ytc/AL5GRJWRvwE8zdlzJAT_48HzZ2OoFGm5AzWWWNQyMCvOmA=s900-c-k-c0x00ffffff-no-rj",
+"banner": "https://s3images.zee5.com/wp-content/uploads/sites/7/2021/05/pjimage-2020-03-26T111802.250.jpg",
+"stock": true,
+"items": [
+{
+"_id": "63f4f4489e72f18feb898a41",
+"price": 119,
+"count": 6,
+"period": "months",
+"description": "For the 6 month plan at ₹119, you'll get unlimited access to ZEE5, which includes a vast selection of TV shows, movies.",
+"name": "Zee5 for 6 months"
+},
+{
+"_id": "63f4f4489e72f18feb898a42",
+"name": "Zee5 for 12 months",
+"price": 189,
+"description": "For the 12 month plan at ₹189, you'll get the same great benefits of ZEE5 as the 6 month plan, but for a longer period.",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-02-21T16:41:44.134Z",
+"slug": "zee5-premium",
 "__v": 0
 }
 ]
