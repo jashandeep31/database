@@ -104,5 +104,123 @@
 "created_at": "2023-02-21T16:41:44.134Z",
 "slug": "zee5-premium",
 "__v": 0
+},
+{
+"_id": "63f5caa09e72f18feb898b77",
+"name": "Voot Premium",
+"description": "Voot is a video-on-demand (OTT) platform, part of Viacom18 Digital Ventures, the digital arm of Viacom18.",
+"category": "ott",
+"img": "https://yt3.googleusercontent.com/ytc/AL5GRJWOnVAoq31VVdhRdVsPkHjedA56vUyG4gYa1BqcRw=s900-c-k-c0x00ffffff-no-rj",
+"banner": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.voot.com%2F&psig=AOvVaw2_Ad5I_mB56-pfcqXKU3Eq&ust=1677138937124000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIiQvsjTqP0CFQAAAAAdAAAAABAI",
+"stock": true,
+"items": [
+{
+"_id": "63f5caa09e72f18feb898b78",
+"name": "Voot Premium",
+"price": 119,
+"description": "This plan offers access to Voot for 6 months at a price of ₹119. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Voot originals",
+"period": "months",
+"count": 6
+}
+],
+"created_at": "2023-02-22T07:56:16.282Z",
+"slug": "voot-premium",
+"__v": 0
+},
+{
+"_id": "63f5cb469e72f18feb898b85",
+"name": "Sony liv",
+"description": "SonyLIV's core library consists of 18 years of content from Culver Max Entertainment's channels including Sony TV, Sony SAB, Sony Aath and Sony Marathi.",
+"category": "ott",
+"img": "https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg",
+"banner": "https://onlytech.com/wp-content/uploads/2020/05/SonyLIV-e1601184315941.jpg",
+"stock": true,
+"items": [
+{
+"_id": "63f5cb469e72f18feb898b86",
+"name": "Sony liv for 1 year",
+"price": 295,
+"description": "his plan offers access to SonyLIV for 12 months at a price of ₹295. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and SonyLIV originals. 1 device login only.",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-02-22T07:59:02.470Z",
+"slug": "sony-liv",
+"__v": 0
+},
+{
+"_id": "63f5cbee9e72f18feb898b94",
+"name": "Disney Hotstar",
+"slug": "disney-hotstar",
+"description": "Disney+ Hotstar is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. Disney+ Hotstar currently offers over 100,000 hours of TV content and movies across 9 languages, and every major sport covered live. ",
+"category": "ott",
+"img": "https://play-lh.googleusercontent.com/bHag_Q5sGOjrRDGsjFSII1O4CMr_Mz5k5gNjLAKeJhjKoGqjcYk-wcLXJQfB5DXqKdw",
+"banner": "https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",
+"stock": true,
+"items": [
+{
+"_id": "63f5cbee9e72f18feb898b95",
+"name": "Disney hotstar 1 year",
+"price": 449,
+"count": 12,
+"period": "months",
+"description": "This plan offers access to Disney+ Hotstar for 12 months at a price of ₹449. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Hotstar Specials, along with exclusive Disney+ content such as Marvel movies and shows, 1 device login"
+}
+],
+"created_at": "2023-02-22T08:01:50.098Z",
+"__v": 0
+},
+{
+"_id": "63f5cc799e72f18feb898ba4",
+"name": "Youtube Premium",
+"slug": "youtube-premium",
+"description": "YouTube Premium is a subscription service offered by the video platform YouTube. The service provides ad-free access to content across the service, as well as access to premium YouTube Originals ",
+"category": "ott",
+"img": "https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj",
+"banner": "https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500",
+"stock": true,
+"items": [
+{
+"name": "Premium on New mail",
+"price": 99,
+"description": "This plan offers access to YouTube Premium for 4 months at a price of ₹99. With this subscription, you'll get ad-free access to YouTube, which includes a vast selection of videos, music, and YouTube originals. ",
+"period": "months",
+"count": 4,
+"_id": "63f5cc799e72f18feb898ba5"
+},
+{
+"name": "Premium on your old mail",
+"price": 169,
+"description": "This plan offers access to YouTube Premium for 3 months at a price of ₹169. With this subscription, you'll get ad-free access to YouTube, which includes a vast selection of videos, music, and YouTube originals. ",
+"period": "months",
+"count": 3,
+"_id": "63f5ccd19e72f18feb898bc9"
+}
+],
+"created_at": "2023-02-22T08:04:09.426Z",
+"__v": 0
+},
+{
+"_id": "63f5cd3f9e72f18feb898bdc",
+"name": "Spotify premium",
+"slug": "spotify-premium",
+"description": "Spotify is a proprietary Swedish audio streaming and media services provider founded on 23 April 2006 by Daniel Ek and Martin Lorentzon. It is one of the largest music streaming service providers, with over 489 million monthly active users, including 205 million paying subscribers,",
+"category": "music",
+"img": "https://play-lh.googleusercontent.com/eN0IexSzxpUDMfFtm-OyM-nNs44Y74Q3k51bxAMhTvrTnuA4OGnTi_fodN4cl-XxDQc",
+"banner": "https://www.scdn.co/i/_global/open-graph-default.png",
+"stock": true,
+"items": [
+{
+"_id": "63f5cd3f9e72f18feb898bdd",
+"name": "Spotify 3 months",
+"price": 119,
+"description": "This plan offers access to Spotify Premium for 3 months at a price of ₹119. With this subscription, you'll get ad-free access to millions of songs, albums, and playlists, along with the ability to play music offline and skip tracks as much as you want.",
+"period": "months",
+"count": 3
+}
+],
+"created_at": "2023-02-22T08:07:27.822Z",
+"__v": 0
 }
 ]
