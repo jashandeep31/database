@@ -111,16 +111,16 @@
 "description": "Voot is a video-on-demand (OTT) platform, part of Viacom18 Digital Ventures, the digital arm of Viacom18.",
 "category": "ott",
 "img": "https://yt3.googleusercontent.com/ytc/AL5GRJWOnVAoq31VVdhRdVsPkHjedA56vUyG4gYa1BqcRw=s900-c-k-c0x00ffffff-no-rj",
-"banner": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.voot.com%2F&psig=AOvVaw2_Ad5I_mB56-pfcqXKU3Eq&ust=1677138937124000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIiQvsjTqP0CFQAAAAAdAAAAABAI",
+"banner": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20180903103038.Medi.jpeg",
 "stock": true,
 "items": [
 {
-"_id": "63f5caa09e72f18feb898b78",
 "name": "Voot Premium",
 "price": 119,
 "description": "This plan offers access to Voot for 6 months at a price of ₹119. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Voot originals",
 "period": "months",
-"count": 6
+"count": 6,
+"_id": "63f5caa09e72f18feb898b78"
 }
 ],
 "created_at": "2023-02-22T07:56:16.282Z",
