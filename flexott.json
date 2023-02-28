@@ -1,0 +1,176 @@
+[
+{
+"_id": "63fe1f6de8f288a0d01e62c2",
+"name": "Netflix premium account",
+"description": "Netflix Premium is a popular streaming service that offers a vast library of movies, TV shows, and documentaries, including exclusive titles that are not available anywhere else.",
+"category": "ott",
+"img": "https://www.freepnglogos.com/uploads/netflix-logo-app-png-16.png",
+"banner": "https://variety.com/wp-content/uploads/2020/05/netflix-logo.png",
+"stock": true,
+"items": [
+{
+"_id": "63fe1f6de8f288a0d01e62c3",
+"name": "1 month netfix",
+"price": 199,
+"count": 1,
+"period": "months",
+"description": "The Rs. 199 per month Netflix Premium plan offers shared profiles and shared accounts, allowing multiple users to enjoy a wide variety of movies, TV shows, and documentaries on a single subscription."
+},
+{
+"_id": "63fe1f6de8f288a0d01e62c4",
+"name": "3 month netflix",
+"price": 399,
+"count": 3,
+"period": "months",
+"description": "The Netflix Premium plan that costs Rs. 399 for 3 months offers a vast library of movies, TV shows, and documentaries, including exclusive titles that are not available anywhere else."
+},
+{
+"_id": "63fe1f6de8f288a0d01e62c5",
+"name": "6 months netflix",
+"price": 699,
+"count": 6,
+"period": "months",
+"description": "The Netflix Premium plan that costs Rs. 699 for 6 months offers a vast library of movies, TV shows, and documentaries, including exclusive titles that are not available anywhere else."
+},
+{
+"_id": "63fe1f6de8f288a0d01e62c6",
+"name": "1 year netflix",
+"price": 999,
+"period": "months",
+"count": 12,
+"description": "The Netflix Premium plan that costs Rs. 999 for 12 months offers a vast library of movies, TV shows, and documentaries, including exclusive titles that are not available anywhere else."
+}
+],
+"created_at": "2023-02-28T15:36:13.667Z",
+"slug": "netflix-premium-account",
+"__v": 0
+},
+{
+"_id": "63fe2258e8f288a0d01e62dd",
+"name": "Amazon Prime",
+"slug": "amazon-prime",
+"description": "Amazon Prime is a subscription service that offers a variety of benefits, including free and fast shipping on eligible items, access to a vast library of movies, TV shows, and music, and much more.",
+"category": "ott",
+"img": "http://store-images.s-microsoft.com/image/apps.32357.14618985536919905.4b30e4f3-f7a1-4421-840c-2cc97b10e8e0.6e7a96f1-33ad-4447-8e2b-7de730f9a05e",
+"banner": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png\"",
+"stock": true,
+"items": [
+{
+"_id": "63fe2258e8f288a0d01e62de",
+"name": "1 month prime video",
+"price": 149,
+"count": 6,
+"period": "months",
+"description": "The Amazon Prime Video plan that costs Rs. 149 for 6 months offers access to a vast library of movies, TV shows, and Amazon Originals, including award-winning content that is not available anywhere else. However, only one screen is allowed at a time with this plan."
+},
+{
+"_id": "63fe2258e8f288a0d01e62df",
+"name": "6 months prime 2 screens",
+"price": 199,
+"count": 6,
+"period": "months",
+"description": "With the Amazon Prime Video plan that costs Rs. 199 for 6 months, you can enjoy access to a vast library of movies, TV shows, and Amazon Originals, including award-winning content that is not available anywhere else. This plan allows you to watch on up to two screens at a time."
+},
+{
+"_id": "63fe2258e8f288a0d01e62e0",
+"name": "1 year prime video",
+"price": 299,
+"count": 12,
+"period": "months",
+"description": "The Amazon Prime Video plan that costs Rs. 299 for 1 year offers access to a vast library of movies, TV shows, and Amazon Originals, including award-winning content that is not available anywhere else. This plan allows you to watch on up to two screens at a time, making it perfect for sharing with family or friends."
+},
+{
+"_id": "63fe2258e8f288a0d01e62e1",
+"name": "6 months prime",
+"price": 399,
+"count": 6,
+"period": "months",
+"description": "The Amazon Prime Video plan that costs Rs. 399 for 6 months offers access to a vast library of movies, TV shows, and Amazon Originals, including award-winning content that is not available anywhere else. This plan allows you to watch on up to four screens at a time, making it perfect for families or groups who want to watch different shows or movies simultaneously."
+},
+{
+"_id": "63fe2258e8f288a0d01e62e2",
+"name": "1 year prime video",
+"price": 499,
+"period": "months",
+"count": 12,
+"description": "The Amazon Prime Video plan that costs Rs. 499 for 1 year offers access to a vast library of movies, TV shows, and Amazon Originals, including award-winning content that is not available anywhere else. This plan allows you to watch on up to four screens at a time, making it perfect for families or groups who want to watch different shows or movies simultaneously."
+}
+],
+"created_at": "2023-02-28T15:48:40.025Z",
+"__v": 0
+},
+{
+"_id": "63fe24dee8f288a0d01e6303",
+"name": "Zee5 Premium",
+"slug": "zee5-premium",
+"description": "Zee5 is a popular Indian video streaming platform that offers a wide variety of content including TV shows, movies, live TV channels, and Zee5 Originals. With a vast library of content available in multiple languages, Zee5 caters to diverse audiences across the country",
+"category": "ott",
+"img": "https://yt3.googleusercontent.com/ytc/AL5GRJWRvwE8zdlzJAT_48HzZ2OoFGm5AzWWWNQyMCvOmA=s900-c-k-c0x00ffffff-no-rj",
+"banner": "https://s3images.zee5.com/wp-content/uploads/sites/7/2021/05/pjimage-2020-03-26T111802.250.jpg",
+"stock": true,
+"items": [
+{
+"_id": "63fe24dee8f288a0d01e6304",
+"name": "1 year zee5",
+"price": 199,
+"description": "Zee5 is a popular Indian video streaming platform that offers a wide variety of content including TV shows, movies, live TV channels, and Zee5 Originals. With a vast library of content available in multiple languages, Zee5 caters to diverse audiences across the country. The Zee5 subscription is priced at Rs. 199 for 1 year, making it an affordable option for those looking for high-quality entertainment.",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-02-28T15:59:26.982Z",
+"__v": 0
+},
+{
+"_id": "63fe2564e8f288a0d01e6328",
+"name": "Voot Premium",
+"slug": "voot-premium",
+"description": "Voot is a video-on-demand (OTT) platform, part of Viacom18 Digital Ventures, the digital arm of Viacom18.",
+"category": "ott",
+"img": "https://yt3.googleusercontent.com/ytc/AL5GRJWOnVAoq31VVdhRdVsPkHjedA56vUyG4gYa1BqcRw=s900-c-k-c0x00ffffff-no-rj",
+"banner": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20180903103038.Medi.jpeg",
+"stock": true,
+"items": [
+{
+"_id": "63fe2564e8f288a0d01e6329",
+"name": "1 year voot",
+"price": 149,
+"description": "Voot is a popular Indian video streaming platform that offers a wide variety of content including TV shows, movies, live TV channels, and Voot Originals. With a vast library of content available in multiple languages, Voot caters to diverse audiences across the country. The Voot subscription is priced at Rs. 149 for 1 year, making it an affordable option for those looking for high-quality entertainment.",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-02-28T16:01:40.586Z",
+"__v": 0
+},
+{
+"_id": "63fe2670e8f288a0d01e6350",
+"name": "Youtube Premium",
+"description": "YouTube Premium is a subscription service offered by the video platform YouTube. The service provides ad-free access to content across the service, as well as access to premium YouTube Originals ",
+"category": "ott",
+"img": "https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj",
+"banner": "https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500",
+"stock": true,
+"items": [
+{
+"_id": "63fe2670e8f288a0d01e6351",
+"name": "YT premium family",
+"price": 99,
+"count": 1,
+"period": "months",
+"description": "YouTube Premium Family Plan offers ad-free access to YouTube, background play, and offline downloads  for Rs. 99 per month."
+},
+{
+"_id": "63fe2670e8f288a0d01e6352",
+"name": "YT premium 4 months",
+"price": 199,
+"period": "months",
+"count": 4,
+"description": "YouTube Premium Family Plan offers ad-free access to YouTube, background play, and offline downloads  for Rs. 199 per month."
+}
+],
+"created_at": "2023-02-28T16:06:08.284Z",
+"slug": "youtube-premium",
+"__v": 0
+}
+]
