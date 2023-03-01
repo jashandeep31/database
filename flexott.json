@@ -277,17 +277,17 @@
 "slug": "grammarly",
 "description": "Grammarly is an AI-powered writing assistant that helps you eliminate writing errors, enhance your writing style, and improve your overall communication.",
 "category": "professional",
-"img": "https://assets.stickpng.com/images/5f49294168ecc70004ae7094.png",
+"img": "https://images.law.com/contrib/content/uploads/sites/401/2022/06/Grammarly-Logo-767x633.jpg",
 "banner": "https://images.ctfassets.net/1e6ajr2k4140/3ILwMSXL3cS6bsXkvMefn9/08df6471eb2aea883a9232de7ca5f776/Group_869__1_.png",
 "stock": true,
 "items": [
 {
-"_id": "63fed08de8f288a0d01e65be",
 "name": "1 year",
 "price": 999,
 "description": "With Grammarly's annual plan at just 999 Rs., improve your writing skills and eliminate errors with ease. Access advanced grammar and plagiarism checkers, vocabulary suggestions, and more.",
 "period": "months",
-"count": 12
+"count": 12,
+"_id": "63fed08de8f288a0d01e65be"
 }
 ],
 "created_at": "2023-03-01T04:11:57.334Z",
