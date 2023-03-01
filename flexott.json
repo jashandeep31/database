@@ -172,5 +172,125 @@
 "created_at": "2023-02-28T16:06:08.284Z",
 "slug": "youtube-premium",
 "__v": 0
+},
+{
+"_id": "63fece26e8f288a0d01e64c1",
+"name": "Combo Plan",
+"description": "The ultimate streaming experience is here! Get access to the best content across Spotify, Voot, Netflix, YouTube Premium, and Prime Video, all in one combo plan. Enjoy your favorite shows, movies, music, and more, anytime, anywhere.",
+"category": "ott",
+"img": "https://raw.githubusercontent.com/jashandeep31/database/main/combo.png",
+"banner": "https://raw.githubusercontent.com/jashandeep31/database/main/combo.png",
+"stock": true,
+"items": [
+{
+"_id": "63fece26e8f288a0d01e64c2",
+"name": "Any 2",
+"price": 299,
+"count": 1,
+"period": "months",
+"description": "Experience the best of both worlds with our Choose Any 2 plan at just 299. Pick from a range of top OTT platforms and enjoy uninterrupted streaming of your favorite movies, shows, and more."
+},
+{
+"_id": "63fece26e8f288a0d01e64c3",
+"name": "any 3",
+"price": 399,
+"count": 1,
+"period": "months",
+"description": "Choose any 3 at 399 and enjoy the best of OTT platforms. With a wide selection of content, including movies, TV shows, and originals, you'll have access to endless entertainment options. Customize your streaming experience with this affordable and convenient plan."
+},
+{
+"_id": "63fece26e8f288a0d01e64c4",
+"name": "any 4",
+"price": 499,
+"count": 1,
+"period": "months",
+"description": "Get the best of multiple worlds with our Choose Any 4 plan at just 499! Mix and match your favorite OTT platforms including Netflix, Amazon Prime, Zee5, Voot, and more. Enjoy unlimited access to a wide range of content on multiple screens."
+},
+{
+"_id": "63fece26e8f288a0d01e64c5",
+"name": "any 5",
+"price": 599,
+"count": 1,
+"period": "months",
+"description": "With our choose any 5 package at 599, you can enjoy your favorite content across 5 OTT platforms of your choice. Get access to a variety of movies, TV shows, and music at an affordable price."
+},
+{
+"_id": "63fece26e8f288a0d01e64c6",
+"name": "all 6",
+"price": 699,
+"description": "Get the ultimate streaming experience with our Choose All 6 plan at just 699. Enjoy uninterrupted access to Netflix, Amazon Prime Video, Zee5, Voot, Spotify and YouTube Premium all at once. Binge-watch your favorite movies, shows, and music without worrying about additional costs.",
+"period": "months",
+"count": 1
+}
+],
+"created_at": "2023-03-01T04:01:42.202Z",
+"slug": "combo-plan",
+"__v": 0
+},
+{
+"_id": "63fecf11e8f288a0d01e654e",
+"name": "Canva Pro",
+"slug": "canva-pro",
+"description": "Empowering the world to design Launched in 2013, Canva is an online design and publishing tool with a mission to empower everyone in the world to design anything and publish anywhere.",
+"category": "professional",
+"img": "https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY",
+"banner": "https://static.canva.com/anon_home/og-image-1200x630.jpg",
+"stock": true,
+"items": [
+{
+"name": "Canva Pro 1 year",
+"price": 99,
+"description": "On your Id. No password required. Activation through link. 100% safe. Take your design game to the next level with Canva's monthly plan at an amazing price of just 99 Rs. With this subscription, you'll have access to a vast library of templates, images, and other design resources, making it easy to create professional-looking graphics and designs for your business or personal projects.",
+"period": "months",
+"count": 1,
+"_id": "63fecf11e8f288a0d01e654f"
+}
+],
+"created_at": "2023-03-01T04:05:37.301Z",
+"__v": 0
+},
+{
+"_id": "63fecfeee8f288a0d01e6566",
+"name": "LinkedIn Pro",
+"slug": "linkedin-pro",
+"description": "LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps",
+"category": "professional",
+"img": "https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw",
+"banner": "https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png",
+"stock": true,
+"items": [
+{
+"_id": "63fecfeee8f288a0d01e6567",
+"name": "LinkedIn Pro 12 months",
+"price": 999,
+"description": "On your Id. No password required. Activation through link. 100% safe. Upgrade your LinkedIn experience with LinkedIn Pro's 1-year plan at an unbeatable price of just 999 Rs. With premium features such as InMail, advanced search filters, and unlimited profile views, you can easily connect with professionals in your industry and expand your network.",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-03-01T04:09:18.821Z",
+"__v": 0
+},
+{
+"_id": "63fed08de8f288a0d01e65bd",
+"name": "Grammarly",
+"slug": "grammarly",
+"description": "Grammarly is an AI-powered writing assistant that helps you eliminate writing errors, enhance your writing style, and improve your overall communication.",
+"category": "professional",
+"img": "https://assets.stickpng.com/images/5f49294168ecc70004ae7094.png",
+"banner": "https://images.ctfassets.net/1e6ajr2k4140/3ILwMSXL3cS6bsXkvMefn9/08df6471eb2aea883a9232de7ca5f776/Group_869__1_.png",
+"stock": true,
+"items": [
+{
+"_id": "63fed08de8f288a0d01e65be",
+"name": "1 year",
+"price": 999,
+"description": "With Grammarly's annual plan at just 999 Rs., improve your writing skills and eliminate errors with ease. Access advanced grammar and plagiarism checkers, vocabulary suggestions, and more.",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-03-01T04:11:57.334Z",
+"__v": 0
 }
 ]
