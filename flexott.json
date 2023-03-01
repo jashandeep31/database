@@ -292,5 +292,49 @@
 ],
 "created_at": "2023-03-01T04:11:57.334Z",
 "__v": 0
+},
+{
+"_id": "63fede4ee8f288a0d01e6b61",
+"name": "Ullu Premium",
+"description": "Ullu is an Indian OTT platform that specializes in adult content. It offers a range of web series, short films, and movies that feature bold and risqué themes. The platform is known for its explicit content and has gained a following among adult viewers in India.",
+"category": "ott",
+"img": "https://yt3.googleusercontent.com/ytc/AL5GRJXrRHYSfcyhrCfaaPToh_WrhcrKgr8mooGH06oSyw=s900-c-k-c0x00ffffff-no-rj",
+"banner": "https://www.exchange4media.com/news-photo/112854-ULLU-logo.jpg",
+"stock": true,
+"items": [
+{
+"_id": "63fede4ee8f288a0d01e6b62",
+"name": "1 year plan",
+"price": 149,
+"period": "months",
+"count": 12,
+"description": "Ullu is an Indian streaming platform known for its original adult web series, short films and movies. Enjoy unlimited access to their content for a year with their subscription plan priced at just ₹149."
+}
+],
+"created_at": "2023-03-01T05:10:38.782Z",
+"slug": "ullu-premium",
+"__v": 0
+},
+{
+"_id": "63fedefce8f288a0d01e6bc1",
+"name": "Discovery +",
+"description": "Discovery Plus is a streaming service that offers a vast selection of content from the Discovery network, including documentaries, reality shows, and original programming. With a subscription, users can access exclusive content and enjoy ad-free streaming.",
+"category": "ott",
+"img": "https://play-lh.googleusercontent.com/XOYXQfbkJA9HMEGryVjl3sJnCSgvHWb9J4VQCO5qhGRj0Ue8bgw0kzuXTCAWSA41cZE",
+"banner": "https://press.discoveryplus.com/wp-content/uploads/2021/01/discovery-plus-logo-vertical-white-wordmark.jpg",
+"stock": true,
+"items": [
+{
+"name": "1 year",
+"price": 199,
+"description": "Discovery Plus offers a vast range of non-fictional TV shows and documentaries from popular networks like Discovery Channel, Animal Planet, and TLC. With the subscription of just 199 for a year, you can explore unlimited hours of factual entertainment.",
+"period": "months",
+"count": 12,
+"_id": "63fedefce8f288a0d01e6bc2"
+}
+],
+"created_at": "2023-03-01T05:13:32.446Z",
+"slug": "discovery-+",
+"__v": 0
 }
 ]
