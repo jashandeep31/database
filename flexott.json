@@ -326,5 +326,27 @@
 ],
 "created_at": "2023-03-03T10:41:32.719Z",
 "__v": 0
+},
+{
+"_id": "6401e4113a401968fe92fd77",
+"name": "Spotify premium",
+"description": "Spotify is a proprietary Swedish audio streaming and media services provider founded on 23 April 2006 by Daniel Ek and Martin Lorentzon. It is one of the largest music streaming service providers, with over 489 million monthly active users, including 205 million paying subscribers",
+"category": "music",
+"img": "https://play-lh.googleusercontent.com/eN0IexSzxpUDMfFtm-OyM-nNs44Y74Q3k51bxAMhTvrTnuA4OGnTi_fodN4cl-XxDQc",
+"banner": "https://www.scdn.co/i/_global/open-graph-default.png",
+"stock": true,
+"items": [
+{
+"_id": "6401e4113a401968fe92fd78",
+"name": "3 months",
+"price": 149,
+"description": "This plan offers access to Spotify Premium for 3 months at a price of ₹149. With this subscription, you'll get ad-free access to millions of songs, albums, and playlists, along with the ability to play music offline and skip tracks as much as you want.",
+"period": "months",
+"count": 3
+}
+],
+"created_at": "2023-03-03T12:12:01.409Z",
+"slug": "spotify-premium",
+"__v": 0
 }
 ]
