@@ -174,60 +174,6 @@
 "__v": 0
 },
 {
-"_id": "63fece26e8f288a0d01e64c1",
-"name": "Combo Plan",
-"description": "The ultimate streaming experience is here! Get access to the best content across Spotify, Voot, Netflix, YouTube Premium, and Prime Video, all in one combo plan. Enjoy your favorite shows, movies, music, and more, anytime, anywhere.",
-"category": "ott",
-"img": "https://raw.githubusercontent.com/jashandeep31/database/main/combo.png",
-"banner": "https://raw.githubusercontent.com/jashandeep31/database/main/combo.png",
-"stock": true,
-"items": [
-{
-"_id": "63fece26e8f288a0d01e64c2",
-"name": "Any 2",
-"price": 299,
-"count": 1,
-"period": "months",
-"description": "Experience the best of both worlds with our Choose Any 2 plan at just 299. Pick from a range of top OTT platforms and enjoy uninterrupted streaming of your favorite movies, shows, and more."
-},
-{
-"_id": "63fece26e8f288a0d01e64c3",
-"name": "any 3",
-"price": 399,
-"count": 1,
-"period": "months",
-"description": "Choose any 3 at 399 and enjoy the best of OTT platforms. With a wide selection of content, including movies, TV shows, and originals, you'll have access to endless entertainment options. Customize your streaming experience with this affordable and convenient plan."
-},
-{
-"_id": "63fece26e8f288a0d01e64c4",
-"name": "any 4",
-"price": 499,
-"count": 1,
-"period": "months",
-"description": "Get the best of multiple worlds with our Choose Any 4 plan at just 499! Mix and match your favorite OTT platforms including Netflix, Amazon Prime, Zee5, Voot, and more. Enjoy unlimited access to a wide range of content on multiple screens."
-},
-{
-"_id": "63fece26e8f288a0d01e64c5",
-"name": "any 5",
-"price": 599,
-"count": 1,
-"period": "months",
-"description": "With our choose any 5 package at 599, you can enjoy your favorite content across 5 OTT platforms of your choice. Get access to a variety of movies, TV shows, and music at an affordable price."
-},
-{
-"_id": "63fece26e8f288a0d01e64c6",
-"name": "all 6",
-"price": 699,
-"description": "Get the ultimate streaming experience with our Choose All 6 plan at just 699. Enjoy uninterrupted access to Netflix, Amazon Prime Video, Zee5, Voot, Spotify and YouTube Premium all at once. Binge-watch your favorite movies, shows, and music without worrying about additional costs.",
-"period": "months",
-"count": 1
-}
-],
-"created_at": "2023-03-01T04:01:42.202Z",
-"slug": "combo-plan",
-"__v": 0
-},
-{
 "_id": "63fecf11e8f288a0d01e654e",
 "name": "Canva Pro",
 "slug": "canva-pro",
@@ -334,7 +280,51 @@
 }
 ],
 "created_at": "2023-03-01T05:13:32.446Z",
-"slug": "discovery-+",
+"slug": "discovery-plus",
+"__v": 0
+},
+{
+"_id": "6401cdce9011c915a51c4c9b",
+"name": "Sunnxt Premium",
+"description": "Sunnxt is an Indian OTT platform with a vast library of Tamil, Telugu, Malayalam, and Kannada movies, TV shows, and original content available for streaming.",
+"category": "ott",
+"img": "data:image/jpeg;base64,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",
+"banner": "https://telecomtalk.info/wp-content/uploads/2019/01/vodafone-idea-sun-nxt-content.png",
+"stock": true,
+"items": [
+{
+"_id": "6401cdce9011c915a51c4c9c",
+"name": "1 Year Plan",
+"price": 299,
+"description": "Get access to a vast collection of South Indian movies, TV shows, and live TV channels with Sun NXT's annual subscription at just 299. Enjoy ad-free streaming and unlimited downloads.",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-03-03T10:37:02.542Z",
+"slug": "sunnxt-premium",
+"__v": 0
+},
+{
+"_id": "6401cedc9011c915a51c4d86",
+"name": "Alt Balaji",
+"slug": "alt-balaji",
+"description": "Alt Balaji is an Indian OTT platform offering a wide range of original web series and movies across various genres. With a subscription, users can enjoy exclusive content in multiple languages.",
+"category": "ott",
+"img": "https://play-lh.googleusercontent.com/viDu67GKxSJbukLZ18w3WagOSvAjhA3QFqcQoMX2tXUSRxk_B1P9qYSmdNFazMJXpQ",
+"banner": "https://onlytech.com/wp-content/uploads/2020/06/Alt-Balaji.jpg",
+"stock": true,
+"items": [
+{
+"_id": "6401cedc9011c915a51c4d87",
+"name": "1 year",
+"price": 199,
+"description": "Alt Balaji is an Indian streaming service with a wide range of shows and movies. Get unlimited access to their content with the 1-year plan priced at just Rs. 199. Enjoy high-quality streaming and exclusive series.",
+"period": "months",
+"count": 12
+}
+],
+"created_at": "2023-03-03T10:41:32.719Z",
 "__v": 0
 }
 ]
