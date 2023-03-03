@@ -110,12 +110,20 @@
 "stock": true,
 "items": [
 {
-"_id": "63fe24dee8f288a0d01e6304",
-"name": "1 year zee5",
+"name": "1 year zee5 HD",
 "price": 199,
 "description": "Zee5 is a popular Indian video streaming platform that offers a wide variety of content including TV shows, movies, live TV channels, and Zee5 Originals. With a vast library of content available in multiple languages, Zee5 caters to diverse audiences across the country. The Zee5 subscription is priced at Rs. 199 for 1 year, making it an affordable option for those looking for high-quality entertainment.",
 "period": "months",
-"count": 12
+"count": 12,
+"_id": "63fe24dee8f288a0d01e6304"
+},
+{
+"name": "1 year zee5 4k",
+"price": 399,
+"description": "Zee5 is a popular Indian video streaming platform that offers a wide variety of content including TV shows, movies, live TV channels, and Zee5 Originals. With a vast library of content available in multiple languages, Zee5 caters to diverse audiences across the country. The Zee5 subscription is priced at Rs. 399 for 1 year, making it an affordable option for those looking for high-quality entertainment.",
+"period": "months",
+"count": 12,
+"_id": "6401e5c03a401968fe92fdb0"
 }
 ],
 "created_at": "2023-02-28T15:59:26.982Z",
@@ -132,12 +140,28 @@
 "stock": true,
 "items": [
 {
-"_id": "63fe2564e8f288a0d01e6329",
-"name": "1 year voot",
+"name": "Mobile Plan 1 year",
 "price": 149,
 "description": "Voot is a popular Indian video streaming platform that offers a wide variety of content including TV shows, movies, live TV channels, and Voot Originals. With a vast library of content available in multiple languages, Voot caters to diverse audiences across the country. The Voot subscription is priced at Rs. 149 for 1 year, making it an affordable option for those looking for high-quality entertainment.",
 "period": "months",
-"count": 12
+"count": 12,
+"_id": "63fe2564e8f288a0d01e6329"
+},
+{
+"name": "Gold plan 1 year",
+"price": 249,
+"description": "Voot is a popular Indian video streaming platform that offers a wide variety of content including TV shows, movies, live TV channels, and Voot Originals. With a vast library of content available in multiple languages, Voot caters to diverse audiences across the country. The Voot subscription is priced at Rs. 249 for 1 year, making it an affordable option for those looking for high-quality entertainment.",
+"period": "months",
+"count": 12,
+"_id": "6401e61f3a401968fe92fdd5"
+},
+{
+"name": "Platinum Plan",
+"price": 349,
+"description": "Voot is a popular Indian video streaming platform that offers a wide variety of content including TV shows, movies, live TV channels, and Voot Originals. With a vast library of content available in multiple languages, Voot caters to diverse audiences across the country. The Voot subscription is priced at Rs. 349 for 1 year, making it an affordable option for those looking for high-quality entertainment.",
+"period": "months",
+"count": 12,
+"_id": "6401e61f3a401968fe92fdd6"
 }
 ],
 "created_at": "2023-02-28T16:01:40.586Z",
