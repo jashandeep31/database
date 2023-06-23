@@ -191,16 +191,24 @@
 "items": [
 {
 "name": "Premium on New mail",
-"price": 99,
-"description": "This plan offers access to YouTube Premium for 4 months at a price of ₹99. With this subscription, you'll get ad-free access to YouTube, which includes a vast selection of videos, music, and YouTube originals. ",
+"price": 159,
+"description": "This plan offers access to YouTube Premium for 6 months at a price of ₹159. With this subscription, you'll get ad-free access to YouTube, which includes a vast selection of videos, music, and YouTube originals. ",
 "period": "months",
-"count": 4,
+"count": 6,
 "_id": "63f5cc799e72f18feb898ba5"
 },
 {
 "name": "Premium on your old mail",
-"price": 169,
-"description": "This plan offers access to YouTube Premium for 3 months at a price of ₹169. With this subscription, you'll get ad-free access to YouTube, which includes a vast selection of videos, music, and YouTube originals. ",
+"price": 190,
+"description": "This plan offers access to YouTube Premium for 3 months at a price of ₹190. With this subscription, you'll get ad-free access to YouTube, which includes a vast selection of videos, music, and YouTube originals. ",
+"period": "months",
+"count": 3,
+"_id": "63f5ccd19e72f18feb898bc9"
+},
+  {
+"name": "Premium on your old mail",
+"price": 370,
+"description": "This plan offers access to YouTube Premium for 6 months at a price of ₹170. With this subscription, you'll get ad-free access to YouTube, which includes a vast selection of videos, music, and YouTube originals. ",
 "period": "months",
 "count": 3,
 "_id": "63f5ccd19e72f18feb898bc9"
