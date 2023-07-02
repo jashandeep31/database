@@ -282,5 +282,28 @@
 "created_at": "2023-02-23T11:29:09.582Z",
 "slug": "linkedin-pro",
 "__v": 0
+},
+  {
+  "_id": "asfdasfsdfsdfa12",
+  "name": "Amazon prime Full benefits 🛍️",
+  "description": "12 Month prime video ✅\n12 Month Amazon music 🎶\n12 Month Amazon shopping 🛒\n100% genuine account\nNo replacements issue",
+  "category": "ott",
+  "img": "http://store-images.s-microsoft.com/image/apps.32357.14618985536919905.4b30e4f3-f7a1-4421-840c-2cc97b10e8e0.6e7a96f1-33ad-4447-8e2b-7de730f9a05e",
+  "banner": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+  "stock": true,
+  "items": [
+    {
+      "name": "Sharing plan 1 device",
+      "price": 269,
+      "description": "This plan offers a shared Amazon Prime account with full benefits, exclusively for one device. Enjoy 12 months of prime video, Amazon music, and Amazon shopping.",
+      "period": "months",
+      "count": 12,
+      "_id": "sfgsd"
+    }
+  ],
+  "created_at": "2023-07-02T12:00:00.000Z",
+  "slug": "title",
+  "__v": 0
 }
+
 ]
