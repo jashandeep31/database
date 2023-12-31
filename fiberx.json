@@ -9,7 +9,7 @@
     "stock": true,
     "items": [
       {
-        "name": "1 Month shared profile",
+        "name": "1 Month 1 Device",
         "price": 125,
         "description": "-NON STOP WORKING  -NO SCREEN BUSY ISSUES -PERSONAL PROFILE NAME AND PIN CAN'T USED🚨",
         "period": "months",
@@ -17,7 +17,7 @@
         "_id": "63f4bcc96f636266b083809b"
       },
       {
-        "name": "3 Months shared Profile",
+        "name": "3 Months 1 Device",
         "price": 350,
         "description": "-NON STOP WORKING  -NO SCREEN BUSY ISSUES -PERSONAL PROFILE NAME AND PIN CAN'T USED🚨",
         "period": "months",
@@ -25,7 +25,7 @@
         "_id": "63f4ed1f9e72f18feb898957"
       },
       {
-        "name": "6 Months shared Profile",
+        "name": "6 Months 1 Device",
         "price": 699,
         "description": "-NON STOP WORKING  -NO SCREEN BUSY ISSUES -PERSONAL PROFILE NAME AND PIN CAN'T USED🚨",
         "period": "months",
