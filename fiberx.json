@@ -143,7 +143,7 @@
   },
   {
     "_id": "63f5cbee9e72f18feb898b94",
-    "name": "Disney Hotstar",
+    "name": "Disney hotstar premium 12M",
     "slug": "disney-hotstar",
     "description": "Disney+ Hotstar is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. Disney+ Hotstar currently offers over 100,000 hours of TV content and movies across 9 languages, and every major sport covered live. ",
     "category": "ott",
@@ -153,11 +153,11 @@
     "items": [
       {
         "_id": "63f5cbee9e72f18feb898b95",
-        "name": "Disney hotstar 1 year",
+        "name": "Disney hotstar 1 year 4k",
         "price": 1099,
         "count": 12,
         "period": "months",
-        "description": "This plan offers access to Disney+ Hotstar for 12 months at a price of ₹1099. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Hotstar Specials, along with exclusive Disney+ content such as Marvel movies and shows, 1 device login"
+        "description": "This plan offers access to Disney+ Hotstar for 12 months at a price of ₹1099. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Hotstar Specials, along with exclusive Disney+ content such as Marvel movies and shows, 4 device login"
       }
     ],
     "created_at": "2023-02-22T08:01:50.098Z",
@@ -168,7 +168,7 @@
     "name": "Youtube Premium",
     "slug": "youtube-premium",
     "description": "YouTube Premium is a subscription service offered by the video platform YouTube. The service provides ad-free access to content across the service, as well as access to premium YouTube Originals ",
-    "category": "ott",
+    "category": "oyn",
     "img": "https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj",
     "banner": "https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500",
     "stock": true,
