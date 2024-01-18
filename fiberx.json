@@ -71,7 +71,7 @@
     "_id": "63f4f4489e72f18feb898a40",
     "name": "Zee5 Premium",
     "description": "Zee5 offers an exhaustive array of content; with 90+ live TV channels and 1.25 lac+ hours of viewing across the languages of English, Hindi, Bengali, Malayalam, Tamil, Telugu, Kannada, Marathi, Oriya, Bhojpuri, Gujarati & Punjabi",
-    "category": "ott",
+    "category": "oyn",
     "img": "https://yt3.googleusercontent.com/ytc/AL5GRJWRvwE8zdlzJAT_48HzZ2OoFGm5AzWWWNQyMCvOmA=s900-c-k-c0x00ffffff-no-rj",
     "banner": "https://s3images.zee5.com/wp-content/uploads/sites/7/2021/05/pjimage-2020-03-26T111802.250.jpg",
     "stock": true,
@@ -79,7 +79,7 @@
       {
         "name": "Zee5 for 12 months",
         "price": 279,
-        "description": "For the 12 month plan at ₹279, you'll get the same great benefits of ZEE5 as the 6 month plan, but for a longer period. 1 device login.",
+        "description": "For the 12 month plan at ₹279, you'll get the same great benefits of ZEE5 as the 12 month plan, but for a longer period. 1 device login.",
         "period": "months",
         "count": 12,
         "_id": "63f4f4489e72f18feb898a42"
@@ -87,6 +87,28 @@
     ],
     "created_at": "2023-02-21T16:41:44.134Z",
     "slug": "zee5-premium",
+    "__v": 0
+  },
+  {
+    "_id": "63f4f4489e72f18feb898a40",
+    "name": "Zee5 Premium  Sharing",
+    "description": "Zee5 offers an exhaustive array of content; with 90+ live TV channels and 1.25 lac+ hours of viewing across the languages of English, Hindi, Bengali, Malayalam, Tamil, Telugu, Kannada, Marathi, Oriya, Bhojpuri, Gujarati & Punjabi",
+    "category": "ott",
+    "img": "https://yt3.googleusercontent.com/ytc/AL5GRJWRvwE8zdlzJAT_48HzZ2OoFGm5AzWWWNQyMCvOmA=s900-c-k-c0x00ffffff-no-rj",
+    "banner": "https://s3images.zee5.com/wp-content/uploads/sites/7/2021/05/pjimage-2020-03-26T111802.250.jpg",
+    "stock": true,
+    "items": [
+      {
+        "name": "Zee5 sharing 12 months",
+        "price": 180,
+        "description": "For the 12 month plan at ₹180, you'll get the same great benefits of ZEE5 as the 12 month plan, but for a longer period. 1 device login.",
+        "period": "months",
+        "count": 12,
+        "_id": "63f4f4489e72f18feb898a42"
+      }
+    ],
+    "created_at": "2023-02-21T16:41:44.134Z",
+    "slug": "zee5-premium-sharing",
     "__v": 0
   },
   {
@@ -124,7 +146,7 @@
     "name": "Disney hotstar premium 12M",
     "slug": "disney-hotstar",
     "description": "Disney+ Hotstar is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. Disney+ Hotstar currently offers over 100,000 hours of TV content and movies across 9 languages, and every major sport covered live. ",
-    "category": "ott",
+    "category": "oyn",
     "img": "https://play-lh.googleusercontent.com/bHag_Q5sGOjrRDGsjFSII1O4CMr_Mz5k5gNjLAKeJhjKoGqjcYk-wcLXJQfB5DXqKdw",
     "banner": "https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",
     "stock": true,
@@ -136,6 +158,28 @@
         "count": 12,
         "period": "months",
         "description": "This plan offers access to Disney+ Hotstar for 12 months at a price of ₹1099. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Hotstar Specials, along with exclusive Disney+ content such as Marvel movies and shows, 4 device login"
+      }
+    ],
+    "created_at": "2023-02-22T08:01:50.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "63f5cbee9e72f18feb898b94",
+    "name": "Disney hotstar sharing 12M",
+    "slug": "disney-hotstar-sharing",
+    "description": "Disney+ Hotstar is an online video streaming platform owned by Novi Digital Entertainment Private Limited, a wholly owned subsidiary of Star India Private Limited. Disney+ Hotstar currently offers over 100,000 hours of TV content and movies across 9 languages, and every major sport covered live. ",
+    "category": "ott",
+    "img": "https://play-lh.googleusercontent.com/bHag_Q5sGOjrRDGsjFSII1O4CMr_Mz5k5gNjLAKeJhjKoGqjcYk-wcLXJQfB5DXqKdw",
+    "banner": "https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",
+    "stock": true,
+    "items": [
+      {
+        "_id": "63f5cbee9e72f18feb898b95",
+        "name": "Disney hotstar 1 year 4k",
+        "price": 449,
+        "count": 12,
+        "period": "months",
+        "description": "This plan offers access to Disney+ Hotstar for 12 months at a price of ₹449 . With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Hotstar Specials, along with exclusive Disney+ content such as Marvel movies and shows, 1 device login"
       }
     ],
     "created_at": "2023-02-22T08:01:50.098Z",
@@ -228,7 +272,7 @@
     "name": "Personal Amazon prime",
     "slug": "personal-amazon-prime",
     "description": "Amazon Prime is a comprehensive membership program that offers a wide range of benefits, including access to Prime Video, free and fast shipping on eligible items, exclusive deals, and more.",
-    "category": "ott",
+    "category": "oyn",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/2500px-Amazon_icon.svg.png",
     "banner": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
     "stock": true,
