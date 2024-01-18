@@ -90,36 +90,6 @@
     "__v": 0
   },
   {
-    "_id": "63f5caa09e72f18feb898b77",
-    "name": "Voot Premium",
-    "description": "Voot is a video-on-demand (OTT) platform, part of Viacom18 Digital Ventures, the digital arm of Viacom18.",
-    "category": "ott",
-    "img": "https://yt3.googleusercontent.com/ytc/AL5GRJWOnVAoq31VVdhRdVsPkHjedA56vUyG4gYa1BqcRw=s900-c-k-c0x00ffffff-no-rj",
-    "banner": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-an17lvrcpdqb5p53tj9j3rpdq2-20180903103038.Medi.jpeg",
-    "stock": true,
-    "items": [
-      {
-        "name": "Voot Premium",
-        "price": 119,
-        "description": "This plan offers access to Voot for 6 months at a price of ₹119. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Voot originals",
-        "period": "months",
-        "count": 6,
-        "_id": "63f5caa09e72f18feb898b78"
-      },
-      {
-        "name": "Voot Premium 1 year",
-        "price": 170,
-        "description": "This plan offers access to Voot for 12 months at a price of ₹170. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and Voot originals",
-        "period": "months",
-        "count": 12,
-        "_id": "63f5f1fd51f4faf1292c9e30"
-      }
-    ],
-    "created_at": "2023-02-22T07:56:16.282Z",
-    "slug": "voot-premium",
-    "__v": 0
-  },
-  {
     "_id": "63f5cb469e72f18feb898b85",
     "name": "Sony liv",
     "description": "SonyLIV's core library consists of 18 years of content from Culver Max Entertainment's channels including Sony TV, Sony SAB, Sony Aath and Sony Marathi.",
@@ -129,10 +99,18 @@
     "stock": true,
     "items": [
       {
+        "_id": "63f5cb469e72f18feb898b8612",
+        "name": "Sony liv shared 1 year",
+        "price": 295,
+        "description": "his plan offers access to SonyLIV for 12 months at a price of ₹295. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and SonyLIV originals. 1 device login only.",
+        "period": "months",
+        "count": 12
+      },
+      {
         "_id": "63f5cb469e72f18feb898b86",
-        "name": "Sony liv for 1 year",
+        "name": "Sony liv Private 1 year",
         "price": 549,
-        "description": "his plan offers access to SonyLIV for 12 months at a price of ₹549. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and SonyLIV originals. 1 device login only.",
+        "description": "his plan offers access to SonyLIV for 12 months at a price of ₹549. With this subscription, you'll get unlimited access to a vast selection of TV shows, movies, and SonyLIV originals. 5 device login only.",
         "period": "months",
         "count": 12
       }
@@ -188,6 +166,14 @@
         "period": "months",
         "count": 6,
         "_id": "63f5ccd19e72f18feb898bc9"
+      },
+      {
+        "name": "Premium on your old mail",
+        "price": 720,
+        "description": "This plan offers access to YouTube Premium for 12 months at a price of ₹720. With this subscription, you'll get ad-free access to YouTube, which includes a vast selection of videos, music, and YouTube originals. ",
+        "period": "months",
+        "count": 12,
+        "_id": "63f5ccd19e72f18feb898bc9"
       }
     ],
     "created_at": "2023-02-22T08:04:09.426Z",
@@ -235,6 +221,36 @@
       }
     ],
     "created_at": "2023-02-23T11:10:27.023Z",
+    "__v": 0
+  },
+  {
+    "_id": "63f4f2009e72f18feb8989d211",
+    "name": "Personal Amazon prime",
+    "slug": "personal-amazon-prime",
+    "description": "Amazon Prime is a comprehensive membership program that offers a wide range of benefits, including access to Prime Video, free and fast shipping on eligible items, exclusive deals, and more.",
+    "category": "ott",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/2500px-Amazon_icon.svg.png",
+    "banner": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+    "stock": true,
+    "items": [
+      {
+        "name": "Prime Video 6 months",
+        "price": 399,
+        "description": "Subscription will be provided on your 100% personal subscription, This plan offers Amazon shopping, Prime Video, Amazon music, For activation, customers need to provide an Amazon ID and password to our team",
+        "period": "months",
+        "count": 6,
+        "_id": "63f4f2009e72f18feb8989d311"
+      },
+      {
+        "name": "Prime Video 12 months",
+        "price": 649,
+        "description": "Subscription will be provided on your 100% personal subscription, This plan offers Amazon shopping, Prime Video, Amazon music, For activation, customers need to provide an Amazon ID and password to our team",
+        "period": "months",
+        "count": 12,
+        "_id": "63f4f2009e72f18feb8989d411"
+      }
+    ],
+    "created_at": "2023-02-21T16:32:00.870Z",
     "__v": 0
   }
 ]
